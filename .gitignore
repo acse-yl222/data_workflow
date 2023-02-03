@@ -1,0 +1,12 @@
+*.png
+*.pth
+*.txt
+*.csv
+*.json
+*.jpg
+*.jpeg
+
+.idea/
+__pycache__/
+*.py[cod]
+*$py.class
